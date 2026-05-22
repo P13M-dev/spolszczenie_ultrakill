@@ -154,7 +154,7 @@
     "tutorial_health2": "<color=red>TO JEDYNY SPOSÓB NA ODZYSKANIE ZDROWIA</color>.",
     "tutorial_walljump": "<color=orange>SKOCZ</color> gdy jesteś blisko <color=orange>ŚCIANY</color> aby wykonać <color=orange>ODBICIE OD ŚCIANY</color>. (Maks. 3 razy)",
     "tutorial_shockwave1": "wciśnij",
-    "tutorial_shockwave2": "w powietrzu aby <color=orange>UDERZENIE O ZIEMIĘ</color>.",
+    "tutorial_shockwave2": "w powietrzu aby wykonać <color=orange>UDERZENIE O ZIEMIĘ</color>.",
     "tutorial_shockwave3": "przytrzymaj aby wywołać <color=orange>WSTRZĄS</color>.",
     "tutorial_orb1": "Większość poziomów ma sekretne <color=#00FFFF>KULE DUSZ</color>.",
     "tutorial_orb2": "Dotknij je aby zyskać <color=orange>BONUS PUNKTÓW</color>."
